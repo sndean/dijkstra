@@ -2,6 +2,7 @@
 Dijkstra's shortest path using C++ Armadillo
 
 Here's my first try at writing Dijkstra's shortest path algorithm in C++ using the Armadillo linear algebra library (http://arma.sourceforge.net/). (It's pretty ugly, but I was going for a low number of lines..)
+
 Example "test.dat" adjacency matrix
 ```
 0 4 3 0 7 0 0
